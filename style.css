@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+.Mission_Vision {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Mission_Vision i {
+    float: right;
+}
+.msg {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.msg i {
+    float: right;
+}
